@@ -6,4 +6,4 @@ This respository captures my personal solutions to the Data Analysis with Python
 * Medical Data Visualizer
 * Page View Time Series Visualizer
 * Sea Level Predictor
---> You can verify this certification at https://freecodecamp.org/certification/ahmed_bouhachem/data-analysis-with-python-v7
+*--> You can verify this certification at https://freecodecamp.org/certification/ahmed_bouhachem/data-analysis-with-python-v7
